@@ -1,0 +1,19 @@
+@font-face {
+    font-family: lobster;
+    src: url(Lobster_Two/LobsterTwo-BoldItalic.ttf);
+}
+
+body{
+    font-family: lobster;
+    align-items: center;
+    justify-items: center;
+    background-color: pink;
+}
+
+#header{
+    font-size: 3.3rem;
+}
+
+.listHeads{
+    font-size: 2.5rem;
+}
